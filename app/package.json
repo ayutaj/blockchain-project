@@ -1,0 +1,21 @@
+{
+  "name": "agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server",
+    "start": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "solc": "^0.5.1",
+    "truffle": "^5.5.0",
+    "web3": "^1.10.4"
+  },
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
